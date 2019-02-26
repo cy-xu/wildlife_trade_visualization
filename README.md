@@ -12,7 +12,7 @@ This dataset includes all legal species imports and exports carried out in 2016 
 
 I start off with some Python preprocessing, to better understand the structure and metrics of this dataset. Here we see it contains 16 columns, which includes taxonomy, importer / exporter, quantity of each trade, and more.
 
-![img2](img/datavis_2.png "Data processing"){:height="50%" width="50%"}
+<img src="img/datavis_2.png" width=50% height=50%>
 
 ![img3](img/datavis_3.png "Data processing"){:height="50%" width="50%"}
 
