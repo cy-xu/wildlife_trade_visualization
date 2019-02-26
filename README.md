@@ -8,7 +8,7 @@ Almost every member nation in the UN participates the CITES. Members are obligat
 
 This dataset includes all legal species imports and exports carried out in 2016 and reported to CITES, over 67,000 records in total.
 
-![img1](img/datavis_1.png){:height="50%" width="50%"}
+![img1](img/datavis_1.png?s=200)
 
 I start off with some Python preprocessing, to better understand the structure and metrics of this dataset. Here we see it contains 16 columns, which includes taxonomy, importer / exporter, quantity of each trade, and more.
 
